@@ -1,1 +1,3 @@
-# course-management-platform-128437
+# Project Repository
+
+This is the initial README file for the project.
